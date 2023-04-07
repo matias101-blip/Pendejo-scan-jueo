@@ -5,12 +5,12 @@ var imagenes = [
     //si duplica desde la 3 tiene que agregar la "," al final
     //por eso mejor la 1 y 2 porque ya la tienes, y deja la ojos.jpg en ultimo
     {
-        src: "img/1.jpg",
-        respuesta: "La respuesta de la imagen 1 es: DEATH NOTE"
+        src: "img/Boku no Hero.png",
+        respuesta: "La respuesta de la imagen 1 es: Boku no Hero"
     },
     {
-        src: "img/2.jpg",
-        respuesta: "La respuesta de la imagen 2 es: DRAGON BALL Z"
+        src: "img/Kakegurui.png",
+        respuesta: "La respuesta de la imagen 2 es: Kakegurui"
     },
     {
       src: "img/Nisekoi.jpg",
@@ -121,8 +121,20 @@ var imagenes = [
       respuesta: "La respuesta de la imagen 29 es: One Punch Man"
     },
     {
+      src: "img/No Game No Life.png",
+      respuesta: "La respuesta de la imagen 30 es: No Game No Life"
+    },
+    {
+      src: "img/Shokugeki no Sōma.png",
+      respuesta: "La respuesta de la imagen 31 es: Shokugeki no Sōma"
+    },
+    {
+      src: "img/Boku no Pico.png",
+      respuesta: "La respuesta de la imagen 32 es: Boku no Pico"
+    },
+    {
         src: "img/ojos.jpg",
-        respuesta: "La respuesta de la imagen 3 es: MIRAME A LOS OJOS"
+        respuesta: "La respuesta de la imagen 33 es: MIRAME A LOS OJOS"
     }
 ];
 
